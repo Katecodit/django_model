@@ -1,3 +1,2 @@
 # django_model
-Model Relations, drf, vue
-Simple django server, Django REST framewor and vue. Analysis of models and relations.
+Simple django server, Django REST framework and vue.js. Analysis of models and relations.
